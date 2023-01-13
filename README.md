@@ -1,2 +1,2 @@
-# -AGREGANDO ESTILOS
-# M
+# -Agregando Estilos
+# Mockups del desafío finalizado
